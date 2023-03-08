@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sakthi-s-m.github.io/passwordgenerator/",
-  "name": "passwordgenerator",
+  "homepage": "https://sakthi-s-m.github.io/passgen/",
+  "name": "passgen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
