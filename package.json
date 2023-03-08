@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sakthi-S-M/passwordgen.git"
+    "url": "git+https://github.com/Sakthi-S-M/passgen.git"
   },
   "bugs": {
-    "url": "https://github.com/Sakthi-S-M/passwordgen/issues"
+    "url": "https://github.com/Sakthi-S-M/passgen/issues"
   },
   "description": ""
 }
